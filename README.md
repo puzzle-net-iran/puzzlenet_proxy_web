@@ -6,7 +6,6 @@
   <a href="https://github.com/puzzle-net-iran/puzzlenet_proxy_web/stargazers"><img src="https://img.shields.io/github/stars/puzzle-net-iran/puzzlenet_proxy_web?style=for-the-badge&color=gold" alt="GitHub Stars"></a>
   <a href="https://workers.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers"></a>
   <a href="https://desktop.telegram.org/"><img src="https://img.shields.io/badge/Telegram-WEB%20Proxy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram WEB Proxy"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License MIT"></a>
 </p>
 
 <p align="center">

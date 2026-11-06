@@ -81,4 +81,3 @@ Visiting the worker with `?create-secret` generates a cryptographically secure r
 - `README.fa.md`: Persian (فارسی) documentation.
 - `README.ru.md`: Russian (Русский) documentation.
 - `README.zh.md`: Simplified Chinese (简体中文) documentation.
-- `LICENSE`: MIT License.
