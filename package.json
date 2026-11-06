@@ -1,0 +1,1 @@
+{"description":"PuzzleNet Proxy — Telegram WEB proxy on Cloudflare Workers","name":"puzzlenet-proxy-web","private":true,"scripts":{"deploy":"wrangler deploy","test":"node test-harness.mjs"},"type":"module","version":"1.0.0"}

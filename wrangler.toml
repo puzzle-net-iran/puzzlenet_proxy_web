@@ -1,0 +1,11 @@
+# PuzzleNet Proxy — Cloudflare Worker deployment config.
+# Deploy with: npx wrangler deploy
+# Or paste worker.js directly in the Cloudflare dashboard (see README.md).
+name = "puzzlenet-proxy"
+main = "worker.js"
+compatibility_date = "2026-11-06"
+
+# Required secret — set with: npx wrangler secret put ADMIN_KEY
+# (16+ English letters/digits; anyone with it can open the panel.)
+# Optional vars: SECRET, EXTRA_HOSTS, DECOY_URL, CARRIER — see README.md.
+[vars]
